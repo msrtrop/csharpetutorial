@@ -11,6 +11,7 @@ namespace firstprograme
         static void Main(string[] args)
         {
             //this is my first programe seccesfull
+            //1525634try
             Console.WriteLine("hello world");
             Console.ReadKey();
         }
